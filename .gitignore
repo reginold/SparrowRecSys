@@ -30,4 +30,7 @@ SparrowRecSys.iml
 TFRecModel.iml
 RecPySpark.iml
 
+# basic recsys
 .venv
+.json
+.csv
